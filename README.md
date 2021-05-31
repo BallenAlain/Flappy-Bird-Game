@@ -1,4 +1,4 @@
-# FlappyBirdClone
+# Flappy-Bird-Game
 
 - Created in Java using processing libraries
 - Download the [runnable jar file](https://github.com/BallenAlain/FlappyBirdClone/releases/download/1.0/FlappyBirdClone.jar) or go to releases
